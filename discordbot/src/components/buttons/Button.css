@@ -1,0 +1,24 @@
+.topNav-button {
+    overflow: hidden;
+}
+
+.topNav a {
+    float: right;
+    color: #7bbbff;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Rubik', sans-serif;
+    font-weight: normal;
+}
+
+.topNav a:hover {
+    background-color: #ddd;
+    color: #7bbbff;
+}
+
+
+.topNav a.active {
+    color: #7bbbff;
+}

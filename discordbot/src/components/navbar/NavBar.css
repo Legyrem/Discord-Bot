@@ -1,0 +1,9 @@
+.pictureName {
+    float: left;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 9px;
+    height: 40px;
+    width: 60px;
+}
+
